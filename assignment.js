@@ -1,3 +1,5 @@
+// https://github.com/asicoltd/assignment-3rd-js
+
 function kilometerToMeter(kilometer) {
     if (kilometer >= 0) {
         let meter = kilometer * 1000; // 1000 meters = 1 KM
